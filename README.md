@@ -10,3 +10,6 @@
 
 ![Untitled (1)](https://github.com/Nainar-96/Designs-using-Figma/assets/142799371/55135274-6d81-4d37-9280-f94bc36a173d)
 4.Design for Career growth developement in web view
+
+![Untitled2 (1)](https://github.com/Nainar-96/Designs-using-Figma/assets/142799371/9261b836-7fa9-4efd-8010-c2838f18c178)
+5.Design for insipiration who we follow
