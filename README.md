@@ -7,3 +7,6 @@
 
 ![Untitledgoals](https://github.com/Nainar-96/Designs-using-Figma/assets/142799371/422aa7d4-efd9-428d-80b5-0399edb7d000)
 3.Design for growth developement in Application view
+
+![Untitled (1)](https://github.com/Nainar-96/Designs-using-Figma/assets/142799371/55135274-6d81-4d37-9280-f94bc36a173d)
+4.Design for Personal growth developement in web view
