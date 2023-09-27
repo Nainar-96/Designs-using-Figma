@@ -9,4 +9,4 @@
 3.Design for growth developement in Application view
 
 ![Untitled (1)](https://github.com/Nainar-96/Designs-using-Figma/assets/142799371/55135274-6d81-4d37-9280-f94bc36a173d)
-4.Design for Personal growth developement in web view
+4.Design for Career growth developement in web view
